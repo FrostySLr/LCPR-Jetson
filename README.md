@@ -1,6 +1,6 @@
 # License Plate Recognition System using Jetson Nano with Computer Vision and OCR
 ## Description
-This project is a smart license plate detection and recognition system using Jetson Nano, Vehicle Loop Detector, and a USB Webcam. In this project, I use NoMachine to share the screen of the Jetson Nano on my laptop (which is what the USB Wi-Fi adapter is for)
+This project is a smart license plate detection and recognition system using Jetson Nano, Vehicle Loop Detector, and a USB Webcam. In this project, I use NoMachine to share the screen of the Jetson Nano on my laptop (which is what the USB Wi-Fi adapter is for)<br/>
 However, it will also work if connected to a monitor or TV. I will be using Faster R-CNN for license plate detection and PaddleOCR for text extraction from the plate.
 ## Components
 **MicroComputer**  
