@@ -21,13 +21,13 @@ I will be using Faster R-CNN for license plate detection, PaddleOCR for text ext
 - Wi-Fi USB
 - NoMachine (to show the display of the Jetson Nano on your laptop's screen using the same Wi-Fi)
 ## Pin Layouts
-<img src="images/skematik wiring diagram.png">
+<img src="images/skematik wiring diagram.png" height="450px">
 
 ## Documentation
 **Photos**<br/>  
-<img src="images/20250414_093248.jpg"><br/>
-<img src="images/20250414_092830.jpg"><br/>
-<img src="images/Test Project.jpg"><br/>
+<img src="images/20250414_093248.jpg" height="450px"><br/>
+<img src="images/20250414_092830.jpg" height="450px"><br/>
+<img src="images/Test Project.jpg" height="450px"><br/>
 
 
 **Video**  
