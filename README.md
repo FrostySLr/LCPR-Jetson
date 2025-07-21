@@ -19,6 +19,7 @@ I will be using Faster R-CNN for license plate detection, PaddleOCR for text ext
 
 - USB Webcam (I use Logitech C922 for this project but it should work with most webcam)
 - Wi-Fi USB
+- NoMachine (to show the display of the Jetson Nano on your laptop's screen using the same Wi-Fi)
 ## Pin Layouts
 <img src="images/skematik wiring diagram.png">
 
