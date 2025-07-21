@@ -5,7 +5,9 @@ This project is a smart license plate detection and recognition system using Jet
 
 I will be using Faster R-CNN for license plate detection, PaddleOCR for text extraction from the plate, and Vehicle Loop Detector for vehicle detection. 
 <br/>
-Big Thanks to Qengineering for the unofficial upgrade for the Jetson Nano!  (Link to their page: https://qengineering.eu/)
+
+Big Thanks to Qengineering for the unofficial upgrade for the Jetson Nano! <br/> 
+(Link to their page: https://qengineering.eu/)
 ## Libraries
 - At least Python 3.8
 - Pytorch CUDA (For Jetson: 1.13, For Training: <2.0)
