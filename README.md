@@ -13,7 +13,7 @@ I will be using Faster R-CNN for license plate detection, PaddleOCR for text ext
 
 **Sensors**
 
-- Vehicle Loop Detector (/w atleast a 3 meter coil cable)
+- Vehicle Loop Detector (/w atleast a 3 meter coil cable) *I use a 2x1 loop
 
 **Others**  
 
@@ -26,6 +26,7 @@ I will be using Faster R-CNN for license plate detection, PaddleOCR for text ext
 **Photos**<br/>  
 <img src="images/20250414_093248.jpg"><br/>
 <img src="images/20250414_092830.jpg"><br/>
+
 
 **Video**  
 
