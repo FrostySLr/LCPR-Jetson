@@ -26,6 +26,7 @@ I will be using Faster R-CNN for license plate detection, PaddleOCR for text ext
 **Photos**<br/>  
 <img src="images/20250414_093248.jpg"><br/>
 <img src="images/20250414_092830.jpg"><br/>
+<img src="images/Test Project.jpg"><br/>
 
 
 **Video**  
